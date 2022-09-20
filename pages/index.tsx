@@ -108,7 +108,7 @@ const Home: NextPage = () => {
       <Center flexDirection="column">
         <Heading> NFT Members Lounge</Heading>
         <Text>
-          A Membership NFT is needed in order to access the lounge.
+          Membership NFT is needed in order to access the lounge.
         </Text>
         <iframe src="https://giphy.com/embed/QMou31nZSbjoY" width="480" height="270" frameBorder="0" allowFullScreen></iframe>
         <Text mt={4} textAlign="center">
